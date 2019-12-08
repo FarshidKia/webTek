@@ -1,0 +1,37 @@
+/*setting*/
+h1, h2, h3, .title, header{
+    font-family: 'Raleway', sans-serif;
+}
+.sc-main{
+    background: linear-gradient(rgba(19, 1, 1, 0.89),rgba(114, 10, 10, 0.788)),
+    url(C:\Users\Hp\Desktop\webTek\img\mainBackground.jpg)
+    no-repeat 50% 50% !important;
+    background-size: cover !important;
+    position: relative;
+
+}
+.sc-main.segment{
+    min-height: 100vh;
+}
+.sc-header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 80%;
+}
+.sc-logo{
+    display: block;
+    width: 70px;
+    height: 70px;
+    color: aliceblue;
+    font-size: 20px;
+    line-height: 70px !important;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 100%;
+}
+.fixed{
+    padding-right: 8% !important;
+    padding-left: 8%;
+}
