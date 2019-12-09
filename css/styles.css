@@ -11,7 +11,7 @@ h2,h3{
     padding-bottom: 100px !important;
 }
 .sc-main{
-    background: linear-gradient(rgba(19, 1, 1, 0.89),rgba(114, 10, 10, 0.788)),
+    background: linear-gradient(rgba(19, 1, 1, 0.89),rgb(0, 0, 0)),
     url(C:\Users\Hp\Desktop\webTek\img\mainBackground.jpg)
     no-repeat 50% 50% !important;
     background-size: cover !important;
@@ -51,7 +51,7 @@ a .item{
 body div a:hover {
     text-decoration: none;
     color:white !important;
-    background: rgb(243, 226, 74)!important;
+    background: rgb(243, 240, 47)!important;
     
 
 }
@@ -79,7 +79,7 @@ h1.ui.header::first-letter{
 }
 .sc-button{
     font-weight: 300 !important;
-    margin-top: 25px !important;
+    margin-top: 40px !important;
 }
 /*Services sesction*/
 h2.sc-h2{
