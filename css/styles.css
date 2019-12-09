@@ -44,6 +44,17 @@ h2,h3{
     background: #ddd;
     margin-left: 20px !important;
 }
+a .item{
+    padding: 15px;
+    display: block;
+}
+body div a:hover {
+    text-decoration: none;
+    color:white !important;
+    background: rgb(243, 226, 74)!important;
+    
+
+}
 .fixed{
     background-color: rgba(0,0,0, 0.7)!important;
     padding-right: 8% !important;
