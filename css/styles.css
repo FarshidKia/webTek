@@ -1,6 +1,6 @@
 /*setting*/
 h1, h2, h3, .title, header{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Anton', sans-serif !important;
 }
 h2,h3{
     color: #e74c3c !important;
