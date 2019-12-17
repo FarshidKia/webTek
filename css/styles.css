@@ -74,6 +74,8 @@ h1.ui.header::first-letter{
 }
 p.ui.header::first-letter{
     color: #d82c19;
+    font-family: 'Assistant', sans-serif !important;
+
   }
 .primary{
     background-color:#e74c3c !important;
@@ -130,7 +132,7 @@ h2.sc-h2{
    #contact p, 
    #contact .description,
    #contact  i.icon{
-       color: #fff;
+       color: #ddd;
 
    }
    @media only screen and (max-width:767px){
