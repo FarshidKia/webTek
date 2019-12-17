@@ -74,6 +74,7 @@ h1.ui.header::first-letter{
 }
 p.ui.header::first-letter{
     color: #d82c19;
+  }
 .primary{
     background-color:#e74c3c !important;
 }
