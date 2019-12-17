@@ -110,6 +110,35 @@ body{
   color: white;
   background-color: #3b5998;
 }
+.sc-logo{
+    display: block;
+    width: 70px;
+    height: 70px;
+    color: aliceblue;
+    font-size: 20px;
+    line-height: 70px !important;
+    text-align: center;
+    border: 1px solid #fff;
+   
+}
+.logo{
+    float: left !important;
+    background: #ddd;
+    margin-left: 20px !important;
+}
+   #contact{
+    background: linear-gradient(rgba(3, 2, 2, 0.89),rgb(0, 0, 0)),
+    
+    no-repeat 50% 50% !important;
+    background-size: cover !important;
+    
+   }
+   #contact p, 
+   #contact .description,
+   #contact  i.icon{
+       color: #fff;
+
+   }
 
 /* Fallback for Edge
 -------------------------------------------------- */
